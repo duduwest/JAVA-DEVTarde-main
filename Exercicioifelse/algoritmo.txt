@@ -1,0 +1,31 @@
+Exercico 1 - Algoritmo 
+1. Ler a primeira variavel(valor1); 
+2. Ler a segunda variavel(valor2); 
+3. se  valor1>valor2 - entao {()
+    escreva (O valor1 é maior); 
+    } senão{ 
+        escreva (o valor2 é maior)  
+              } 
+
+
+Exercico 2 - Algoritmo
+1. Ler ano de nascimento
+2. Escrever mensagem dizendo se pode ou não votar 
+3. não é necessario considerar o ano de nascimento              
+
+
+Exercico3 - Algoritmo 
+1. Escrever programa de validade de senha 
+2. Se a senha for valida escrever " Acesso permitido" 
+3. Se a senha for invalida escrever " Acesso negado " 
+4. A senha valida é 1234 
+
+Exercico4 - Algoritmo 
+1. maças custam 0,30 centavos se compradas menos que 12 maças 
+2. macas custam 0,25 centavos se comprads 12 ou mais maças 
+3. ler o Numero de maças comprads 
+4. calcular valor da compra  
+5. escrver valor total para o cliente  
+
+Exercicio5 - Algoritmo 
+1. 

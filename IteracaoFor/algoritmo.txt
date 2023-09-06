@@ -1,0 +1,9 @@
+exercicio6 -- 10 alunos com 4 notas, contar o nmr de medias maior que 7 
+
+1.criar um vetor com 10 posiçoes (nº de alunos )
+criar um vetor com 10 posiçoes nº de notas (4 posicoes)
+2.criar um laço para entrada de dados 
+   a. criar um novo laço para entrada das notas 
+   b.calcular a media das notas 
+   c. se media for >7 contar 
+3. imprimir(sout) o contador 
