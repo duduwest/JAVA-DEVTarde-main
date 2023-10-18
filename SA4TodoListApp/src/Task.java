@@ -4,6 +4,7 @@
 public class Task {
 // atributos  
 String description; 
+String details; 
 boolean done; 
 
 
@@ -33,6 +34,13 @@ public boolean isDone() {
 
 public void setDone(boolean done) {
     this.done = done;
+}
+
+public String getDetails() {
+    return null;
+}
+
+public void setDetails(String newDetails) {
 }    
 
 
